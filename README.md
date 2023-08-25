@@ -3,3 +3,4 @@
 <img src="main/B1.jpg" width="800">
 https://github.com/MarvinRzok/FemtoAPRS-Tracker-V1/blob/42fc618e70e21aa30d24490fbcec1a9841884745/B1.png
 (main/B1.png)
+<img src="./B1.jpg">
