@@ -1,7 +1,7 @@
 # FemtoAPRS-Tracker-V1
 
 1
-![alt text](https://github.com/MarvinRzok/FemtoAPRS-Tracker-V1/blob/./B1.png?raw=true)
+![alt text](https://github.com/MarvinRzok/FemtoAPRS-Tracker-V1/blob/main/B1.png?raw=true)
 2
 <img src="main/B1.png" width="800">
 3
