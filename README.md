@@ -1,5 +1,5 @@
 
-# Smallest Lora-APRS tracker available on the world market 
+# Smallest Lora-APRS tracker available in the world
 <img src="./IMG_78267.jpg" width="1000"> 
 
 Femto-APRS ist das kleinste und leichteste Lora-APRS Board auf dem Markt.
