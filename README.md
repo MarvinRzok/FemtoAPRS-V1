@@ -1,4 +1,4 @@
-v
+
 # Smallest Lora-APRS tracker available in the world
 <img src="Bilder/IMG_78267.jpg" width="1000"> 
 
@@ -20,8 +20,8 @@ Das Gewicht wurde so stark reduziert,dass ein einfacher Folienballon aus dem Par
 In diesem Fall wird die Stromversorgung über 6 x 0,5 Volt Solarzellen sichergestellt. Dies ergibt eine Spannung von 3 Volt, bei direkter Sonneneinstrahlung bis zu 3,5 Volt.
 Alternativ kann der Tracker selbstverständlich in Fahrrädern oder anderen Gerätschaften versteckt werden. Eine APRS-flaschenpost ist auch geplant.
 Eigene kreative Einsatzzwecke sind gerne gesehen
-<div style="float: right;">
-<img src="Bilder/B5.jpg" width="400"> 
+
+  <img src="Bilder/B5.jpeg" width="300"> <img src="Bilder/B1.png" width="250">
 
 # Wo gibt es das die Boards zu Kaufen?
 
