@@ -23,7 +23,7 @@ In diesem Fall wird die Stromversorgung über 6 x 0,5 Volt Solarzellen sicherges
 Alternativ kann der Tracker selbstverständlich in Fahrrädern oder anderen Gerätschaften versteckt werden. Eine APRS-flaschenpost ist auch geplant.
 Eigene kreative Einsatzzwecke sind gerne gesehen
 
-  <img src="Bilder/B5.jpeg" width="300"> <img src="Bilder/B1.png" width="240"> <img src="Bilder/B3.png" width="250">
+  <img src="Bilder/B5.jpeg" width="300"> <img src="Bilder/B1.png" width="240"> <img src="Bilder/B4.png" width="250">
 
 # Wo gibt es das die Boards zu Kaufen?
 
