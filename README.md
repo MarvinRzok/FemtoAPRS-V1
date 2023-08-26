@@ -65,4 +65,4 @@ sollte das ganze kein Problem darstellen. Auch für Anfänger ist die Einrichtun
 4. Arduino Code öffnen und in den ersten Zeilen des Programmcodes eigenes Rufzeichen und eigene Statusnachricht eintragen.
 5. Code hochladen und testen.
 
-<img src="./B2.png" width="1000">
+<img src="Bilder/B2.png" width="900"> 
