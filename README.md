@@ -16,6 +16,7 @@ Das eigene Gerät ist dann auf dieser Website zum verfolgen sichtbar.
 # Wo gibt es das die Boards zu Kaufen?
 
 Wenn ihr einen Femto-APRS haben wollt, schreibt mir bitte eine kurze Mail an DO1MA@WEB.DE
+Ich habe ein paar Boards zum experimentieren zusammengelötet.
 
 In einem Onlineshop gibt es die Sender noch nicht zu kaufen. Die aktuelle Version läuft sehr stabil und ist sehr ausgereift.
 Ich gehe davon aus, dass die Entwicklung 2023 abgeschlossen wird und Anfang 2024 eine finale Version steht. 
