@@ -13,6 +13,19 @@ Diese bestehen aus dem Rufzeichen, Koordinaten, Höhe, Temperatur, Luftdruck und
 Die Aussendungen werden entweder von der eigenen Empfangsstation oder von öffentlichen Empfangsstationen empfangen und auf [aprs.fi](aprs.fi) hochgeladen.
 Das eigene Gerät ist dann auf dieser Website zum verfolgen sichtbar.
 
+# Wo gibt es das die Boards zu Kaufen?
+
+Wenn ihr einen Femto-APRS haben wollt, schreibt mir bitte eine kurze Mail an DO1MA@WEB.DE
+
+In einem Onlineshop gibt es die Sender noch nicht zu kaufen. Die aktuelle Version läuft sehr stabil und ist sehr ausgereift.
+Ich gehe davon aus, dass die Entwicklung 2023 abgeschlossen wird und Anfang 2024 eine finale Version steht. 
+Dann wäre ein Vertrieb der Sender denkbar, ich habe allerdings keine ahnung, ob überhaupt ein Interesse an den Boards besteht.
+
+Du hast einen Online-Shop und würdest die Sender gerne anbieten? 
+Melde dich gerne bei mir!
+
+Wenn ihr an der Entwicklung teilhaben wollt, sei es Software oder Hardware, würde ich mich auch über eine Nachricht von Euch freuen.
+
 ## Was ist alles auf der Platine verbaut?
 
 - Arduino (ATMEGA328PB)
