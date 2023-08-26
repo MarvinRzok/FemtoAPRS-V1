@@ -1,4 +1,4 @@
-
+v
 # Smallest Lora-APRS tracker available in the world
 <img src="Bilder/IMG_78267.jpg" width="1000"> 
 
@@ -12,6 +12,16 @@ Das Board sendet in einem vorher programmierten Intervall APRS Nachrichten aus.
 Diese bestehen aus dem Rufzeichen, Koordinaten, Höhe, Temperatur, Luftdruck und einer eigenen eingestellten Nachricht.
 Die Aussendungen werden entweder von der eigenen Empfangsstation oder von öffentlichen Empfangsstationen empfangen und auf [aprs.fi](aprs.fi) hochgeladen.
 Das eigene Gerät ist dann auf dieser Website zum verfolgen sichtbar.
+
+## Haupteinsatzzweck
+
+Die Platine wurde für Stratosphärenflüge an Ballonen konzipiert.
+Das Gewicht wurde so stark reduziert,dass ein einfacher Folienballon aus dem Partybereich ausreicht um die Kapsel zu starten.
+In diesem Fall wird die Stromversorgung über 6 x 0,5 Volt Solarzellen sichergestellt. Dies ergibt eine Spannung von 3 Volt, bei direkter Sonneneinstrahlung bis zu 3,5 Volt.
+Alternativ kann der Tracker selbstverständlich in Fahrrädern oder anderen Gerätschaften versteckt werden. Eine APRS-flaschenpost ist auch geplant.
+Eigene kreative Einsatzzwecke sind gerne gesehen
+<div style="float: right;">
+<img src="Bilder/B5.jpg" width="400"> 
 
 # Wo gibt es das die Boards zu Kaufen?
 
