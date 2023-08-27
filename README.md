@@ -48,9 +48,11 @@ Du hast einen Online-Shop und würdest die Sender gerne anbieten?
 Melde dich gerne bei mir!
 
 Wenn ihr an der Entwicklung teilhaben wollt, sei es Software oder Hardware, würde ich mich auch über eine Nachricht von Euch freuen.
-<img src="Bilder/IMG_7815.JPG" width="370">  <img src="Bilder/IMG_7828.JPG" width="200"> 
 
-Basis-Version mit Programmieradapter und Extended-Version mit GPS Antenne und Lora Antenne.                                                                                                                                    (Für Flüge werden dünne Drähte als Antennen angelötet!)
+<img src="Bilder/IMG_7815.JPG" width="370">  <img src="Bilder/IMG_7828.JPG" width="200">  <img src="Bilder/B3.jpeg" width="370">
+
+Basis-Version mit Programmieradapter und Extended-Version mit GPS Antenne und Lora Antenne.                                                                                                                                    
+(Für Flüge werden dünne Drähte als Antennen angelötet!)
 
 ## Was ist alles auf der Platine verbaut?
 
