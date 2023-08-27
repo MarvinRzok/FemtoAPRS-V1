@@ -12,7 +12,7 @@ Geräte um Lora APRS zu empfangen sind außerdem weiter verbreitet und viel gün
 
 Das Board sendet in einem vorher programmierten Intervall APRS Nachrichten aus.
 Diese bestehen aus dem Rufzeichen, Koordinaten, Höhe, Temperatur, Luftdruck und einer eigenen eingestellten Nachricht.
-Die Aussendungen werden entweder von der eigenen Empfangsstation oder von öffentlichen Empfangsstationen empfangen und auf [aprs.fi](https://aprs.fi/) hochgeladen.
+Die Aussendungen werden entweder von der eigenen Empfangsstation oder von öffentlichen Empfangsstationen empfangen und in das APRS-IS System eingespeißt. dies ist dann auf [aprs.fi](https://aprs.fi/) zu sehen.
 Das eigene Gerät ist dann auf dieser Website zum verfolgen sichtbar.
 
 ## Haupteinsatzzweck
