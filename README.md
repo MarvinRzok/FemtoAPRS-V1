@@ -6,7 +6,7 @@ Femto-APRS ist das kleinste und leichteste Lora-APRS Board auf dem Markt.
 Ein 2m-APRS Sender in der selben Größe ist geplant, allerdings ist die Verfügbarkeit von 70 cm LoRa-APRS in Deutschland um einiges besser.
 Geräte um Lora APRS zu empfangen sind außerdem weiter verbreitet und viel günstiger.
 
-#### Diese Seite befindet sich im Aufbau, alle wichtigen Infos werden bis Ende September ergänzt!
+## Diese Seite befindet sich im Aufbau, alle wichtigen Infos (Software... Schaltplan...) werden bis Ende September ergänzt!
 
 ## Was kann das Board?
 
