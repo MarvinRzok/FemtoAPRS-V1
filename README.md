@@ -27,8 +27,19 @@ Eigene kreative Einsatzzwecke sind gerne gesehen
 
 # Wo gibt es das die Boards zu Kaufen?
 
-Wenn ihr einen Femto-APRS haben wollt, schreibt mir bitte eine kurze Mail an DO1MA@WEB.DE
+### Wenn ihr einen Femto-APRS haben wollt, schreibt mir bitte eine kurze Mail an DO1MA@WEB.DE
 Ich habe ein paar Boards zum experimentieren zusammengelötet.
+
+Vergleichbare Boards wären:
+
+- Tracksoar       ca. 250€
+- LightAPRS       ca. 130€
+- Picoaprs        ca. 139€
+
+Diese Boards gibt es aber teilweise nicht mehr zu kaufen, und sie sind zu teuer und schwer. 
+
+#### Ich konzipiere mein Board so, dass es für unter 100€ angeboten werden soll.
+(Board und programmieadapter)
 
 In einem Onlineshop gibt es die Sender noch nicht zu kaufen. Die aktuelle Version läuft sehr stabil und ist sehr ausgereift.
 Ich gehe davon aus, dass die Entwicklung 2023 abgeschlossen wird und Anfang 2024 eine finale Version steht. 
@@ -48,7 +59,7 @@ Basis-Version mit Programmieradapter und Extended-Version mit GPS Antenne und Lo
 - GPS
 - RFM98W Sendemodul 
 - Neopixel RGB LEDs
--BMP280/BME280 Temperatur/Luftdruck Sensor
+- BMP280/BME280 Temperatur/Luftdruck Sensor
 - Spannungsteilerzur spannungsmessung (in der Testphase)
 - diverse Kleinigkeiten
 
