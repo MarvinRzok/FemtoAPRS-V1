@@ -49,7 +49,7 @@ Melde dich gerne bei mir!
 
 Wenn ihr an der Entwicklung teilhaben wollt, sei es Software oder Hardware, würde ich mich auch über eine Nachricht von Euch freuen.
 
-<img src="Bilder/IMG_7815.JPG" width="370">  <img src="Bilder/IMG_7828.JPG" width="200">  <img src="Bilder/B3.jpeg" width="370">
+<img src="Bilder/IMG_7815.JPG" width="340">  <img src="Bilder/IMG_7828.JPG" width="160">  <img src="Bilder/B3.jpeg" width="340">
 
 Basis-Version mit Programmieradapter und Extended-Version mit GPS Antenne und Lora Antenne.                                                                                                                                    
 (Für Flüge werden dünne Drähte als Antennen angelötet!)
