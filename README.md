@@ -28,7 +28,6 @@ Eigene kreative Einsatzzwecke sind gerne gesehen
 # Wo gibt es das die Boards zu Kaufen?
 
 ### Wenn ihr einen Femto-APRS haben wollt, schreibt mir bitte eine kurze Mail an DO1MA@WEB.DE
-Ich habe ein paar Boards zum experimentieren zusammengelötet.
 
 Vergleichbare Boards wären:
 
