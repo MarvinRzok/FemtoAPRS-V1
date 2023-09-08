@@ -77,10 +77,22 @@ Programmiert wird das Board über die Arduino IDE. Wenn ihr schon einmal einen A
 sollte das ganze kein Problem darstellen. Auch für Anfänger ist die Einrichtung sehr simpel.
 
 1. Arduino IDE installieren 
-2. Minicore Boards Extension installieren
-3. ATMEGA328PB (8MHz inernal) (2,7V BOD) auswählen.
-4. Arduino Code öffnen und in den ersten Zeilen des Programmcodes eigenes Rufzeichen und eigene Statusnachricht eintragen.
-5. Code hochladen und testen.
+2. [Minicore](https://github.com/MCUdude/MiniCore#how-to-install) Boards Extension installieren
+3. ATMEGA328 auswählen:
+   
+* Board ATmega328
+* BOD: BOD 2.7V
+* Bootloader: YES (UART0)
+* Clock: Interal 16 MHz
+* EEPROM: EEPROM retained
+* Compiler LTO: LTO disabled
+* Varieant: 328PB
+* Programmer: AVRISP mkII
+ 
+ ### 4. Board nur mit angeschlossener Antenne betreiben!!!
+  
+5. Arduino Code öffnen und in den ersten Zeilen des Programmcodes eigenes Rufzeichen und eigene Statusnachricht eintragen.
+6. Code hochladen und testen.
 
 <img src="Bilder/B2.png" width="900"> 
 <img src="Bilder/IMG_7836.JPG" width="1000"> 
