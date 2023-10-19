@@ -76,23 +76,6 @@ Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen
 Programmiert wird das Board über die Arduino IDE. Wenn ihr schon einmal einen Arduino programmiert habt oder euch damit auseinandergesetzt habt,
 sollte das ganze kein Problem darstellen. Auch für Anfänger ist die Einrichtung sehr simpel.
 
-1. Arduino IDE installieren 
-2. [Minicore](https://github.com/MCUdude/MiniCore#how-to-install) Boards Extension installieren
-3. ATMEGA328 auswählen:
-   
-* Board ATmega328
-* BOD: BOD 2.7V
-* Bootloader: YES (UART0)
-* Clock: Interal 16 MHz
-* EEPROM: EEPROM retained
-* Compiler LTO: LTO disabled
-* Varieant: 328PB
-* Programmer: AVRISP mkII
- 
- ### 4. Board nur mit angeschlossener Antenne betreiben!!!
-  
-5. Arduino Code öffnen und in den ersten Zeilen des Programmcodes eigenes Rufzeichen und eigene Statusnachricht eintragen.
-6. Code hochladen und testen.
-
-<img src="Bilder/B2.png" width="900"> 
+die Software befindet sich bereits auf dem Board, konfiguriert wird es über den seriellen Monitor.
+Infos folgen...
 <img src="Bilder/IMG_7836.JPG" width="1000"> 
