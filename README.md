@@ -71,7 +71,7 @@ Die maximale Sendeleistung beträgt 100 mW, für Ballonflüge reichen 10mW im Re
 Mit 10mW habe ich aus dem 9. Stockwerk (Hochhaus) mehrere I-gates in über 100Km Entfernung erreicht.
 Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen :-)
 
-## Wie wird das Bort programmiert?
+## Wie wird das Board programmiert?
 
 Programmiert wird das Board über die Arduino IDE. Wenn ihr schon einmal einen Arduino programmiert habt oder euch damit auseinandergesetzt habt,
 sollte das ganze kein Problem darstellen. Auch für Anfänger ist die Einrichtung sehr simpel.
