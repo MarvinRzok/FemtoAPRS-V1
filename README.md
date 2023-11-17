@@ -73,9 +73,18 @@ Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen
 
 ## Wie wird das Board programmiert?
 
-Programmiert wird das Board über die Arduino IDE. Wenn ihr schon einmal einen Arduino programmiert habt oder euch damit auseinandergesetzt habt,
-sollte das ganze kein Problem darstellen. Auch für Anfänger ist die Einrichtung sehr simpel.
+# Die Software befindet sich bereits auf dem Board, beim Aufspielen einer neuen Software geht die alte Software dauerhaft verloren.
+Aktuell gibt es keine Möglichkeit diese wiederherzustellen.
 
-die Software befindet sich bereits auf dem Board, konfiguriert wird es über den seriellen Monitor.
-Infos folgen...
+Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die Einrichtung sehr simpel.
+
+1. [Arduino IDE](https://www.arduino.cc/en/software) installieren
+2. Port wählen (bei eingestecktem Board)
+3. Seriellen Monitor öffnen
+
+*Ein Board muss nicht gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
+Sollte die Software nach einem Board verlangen, kann der Arduino Uno oder Nano gewählt werden.
+Dies macht für die Konfiguration keinen Unterschied.
+Wer eine eigene Software schreiben will, muss über [MiniCore](https://github.com/MCUdude/MiniCore#how-to-install) den ATMega328PB zum Programmieren auswählen.
+
 <img src="Bilder/IMG_7836.JPG" width="1000"> 
