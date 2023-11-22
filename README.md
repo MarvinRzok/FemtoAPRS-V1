@@ -112,7 +112,7 @@ Dies macht für die Konfiguration keinen Unterschied.
 
 
 
-
+<img src="Bilder/pcb1.png" width="1000">
 <img src="Bilder/IMG_78581.JPG" width="1000"> 
 
 Wer eine eigene Software schreiben will, muss über [MiniCore](https://github.com/MCUdude/MiniCore#how-to-install) den ATMega328PB zum Programmieren auswählen.
