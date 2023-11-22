@@ -81,13 +81,26 @@ Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die E
 1. Board wählen (Arduino Uno oder Nano)
 2. Port des Boards wählen (Geht natürlich nur bei eingestecktem Board)
 3. Seriellen Monitor öffnen
-<img src="Bilder/IDE1.jpg" width="600"> 
-*Ein Board muss nicht gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
+<img src="Bilder/IDE1.jpg" width="600">
+
+
+Nach dem öffnen des Seriellen Monitors startet das Board automatisch neu. 
+Nun wartet das Board 5 Sekunden und erwarten eine betätigung der ENTER Taste durch den Nutzer auf der Tastatur. 
+Wenn dies nicht geschieht, startet das Board ganz normal und nimmt den Betrieb auf. 
+Bei einer Betätigung der ENTER Taste öffnet sich das Menü, und der Sender kann Konfiguriert werden. 
+Das Menü hat ein Timeout von XX Sekunden. 
+Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alles startet dann von vorne...
+<img src="Bilder/IDE2.PNG" width="1000">
+
+
+*Ein Board muss nicht zwangsläufig gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
 Sollte die Software nach einem Board verlangen, kann der Arduino Uno oder Nano gewählt werden.
 Dies macht für die Konfiguration keinen Unterschied.
-Wer eine eigene Software schreiben will, muss über [MiniCore](https://github.com/MCUdude/MiniCore#how-to-install) den ATMega328PB zum Programmieren auswählen.
+
 
 
 
 
 <img src="Bilder/IMG_78581.JPG" width="1000"> 
+
+Wer eine eigene Software schreiben will, muss über [MiniCore](https://github.com/MCUdude/MiniCore#how-to-install) den ATMega328PB zum Programmieren auswählen.
