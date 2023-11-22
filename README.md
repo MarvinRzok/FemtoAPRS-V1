@@ -77,7 +77,6 @@ Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen
 
 Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die Einrichtung sehr simpel.
 
-<img src="Bilder/WHITE.png" width="600">
 
 ### 1.)
 
@@ -102,7 +101,7 @@ Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alle
 
 1. Start-text
 2. Das Menü, wenn innerhalb von 5 Sekunden ENTER gedrückt wurde
-#### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden aber "nur" unverständliche Daten ausgegeben...
+#### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden GPS Daten ausgegeben...
 
 <img src="Bilder/WHITE.png" width="600">
 
