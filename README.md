@@ -100,6 +100,10 @@ Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alle
 
 <img src="Bilder/IDE2.PNG" width="1000">
 
+1. Start-text
+2. Das Menü, wenn innerhalb von 5 Sekunden ENTER gedrückt wurde
+#### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden aber "nur" unverständliche Daten ausgegeben...
+
 <img src="Bilder/WHITE.png" width="600">
 
 *Ein Board muss nicht zwangsläufig gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
