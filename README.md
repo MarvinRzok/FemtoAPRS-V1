@@ -77,10 +77,11 @@ Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen
 
 Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die Einrichtung sehr simpel.
 
-1. [Arduino IDE](https://www.arduino.cc/en/software) installieren
-2. Port wählen (bei eingestecktem Board)
+[Arduino IDE](https://www.arduino.cc/en/software) installieren
+1. Board wählen (Arduino Uno oder Nano)
+2. Port des Boards wählen (Geht natürlich nur bei eingestecktem Board)
 3. Seriellen Monitor öffnen
-
+<img src="Bilder/IDE1.JPG" width="600"> 
 *Ein Board muss nicht gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
 Sollte die Software nach einem Board verlangen, kann der Arduino Uno oder Nano gewählt werden.
 Dies macht für die Konfiguration keinen Unterschied.
