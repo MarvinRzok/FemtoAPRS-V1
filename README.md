@@ -77,7 +77,7 @@ Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen
 
 Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die Einrichtung sehr simpel.
 
-<img src="Bilder/WHITE.PNG" width="600">
+<img src="Bilder/WHITE.png" width="600">
 
 ### 1.)
 
@@ -87,7 +87,7 @@ Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die E
 3. Seriellen Monitor öffnen
 <img src="Bilder/IDE1.jpg" width="600">
 
-<img src="Bilder/WHITE.PNG" width="600">
+<img src="Bilder/WHITE.png" width="600">
 
 ### 2.)
 
@@ -100,7 +100,7 @@ Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alle
 
 <img src="Bilder/IDE2.PNG" width="1000">
 
-<img src="Bilder/WHITE.PNG" width="600">
+<img src="Bilder/WHITE.png" width="600">
 
 *Ein Board muss nicht zwangsläufig gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
 Sollte die Software nach einem Board verlangen, kann der Arduino Uno oder Nano gewählt werden.
