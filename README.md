@@ -72,9 +72,8 @@ Mit 10mW habe ich aus dem 9. Stockwerk (Hochhaus) mehrere I-gates in über 100Km
 Ich weiß nicht was die Community mit den Boards vorhat, aber das sollte reichen :-)
 
 ## Wie wird das Board programmiert?
-
-# Die Software befindet sich bereits auf dem Board, beim Aufspielen einer neuen Software geht die alte Software dauerhaft verloren.
-Aktuell gibt es keine Möglichkeit diese wiederherzustellen.
+# ACHTUNG
+##### Die Software befindet sich bereits auf dem Board, beim Aufspielen einer neuen Software geht die alte Software dauerhaft verloren.
 
 Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die Einrichtung sehr simpel.
 
