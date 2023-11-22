@@ -81,11 +81,13 @@ Konfiguriert wird das Board über die Arduino IDE. Auch für Anfänger ist die E
 1. Board wählen (Arduino Uno oder Nano)
 2. Port des Boards wählen (Geht natürlich nur bei eingestecktem Board)
 3. Seriellen Monitor öffnen
-<img src="Bilder/IDE1.JPG" width="600"> 
+<img src="Bilder/IDE1.jpg" width="600"> 
 *Ein Board muss nicht gewählt werden, da wir nur die serielle Schnittstelle nutzen und das Board nicht programmieren.
 Sollte die Software nach einem Board verlangen, kann der Arduino Uno oder Nano gewählt werden.
 Dies macht für die Konfiguration keinen Unterschied.
 Wer eine eigene Software schreiben will, muss über [MiniCore](https://github.com/MCUdude/MiniCore#how-to-install) den ATMega328PB zum Programmieren auswählen.
 
 
-<img src="Bilder/IMG_7836.JPG" width="1000"> 
+
+
+<img src="Bilder/IMG_78581.JPG" width="1000"> 
