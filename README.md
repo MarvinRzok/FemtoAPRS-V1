@@ -59,9 +59,9 @@ Basis-Version mit Programmieradapter und Extended-Version mit GPS und Lora Anten
 - Arduino (ATMEGA328PB)
 - GPS
 - RFM98W Sendemodul 
-- Neopixel RGB LEDs
-- BMP280/BME280 Temperatur/Luftdruck Sensor
-- Spannungsteiler zur Spannungsmessung (in der Testphase)
+- 4 Neopixel RGB LEDs
+- Vorbereiteter Spannungsteiler für einen PTC/NTC
+- Spannungsteiler zur Spannungsmessung
 - diverse Kleinigkeiten
 
 ## Technische Informationen
