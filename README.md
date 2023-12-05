@@ -111,8 +111,9 @@ __Wenn innerhalb von 5 Sekunden eine ENTER eingabe registriert wird, öffnet sic
 TEXT FOLGT
 TEXT FOLGT
 ```
-Command | Description
---- | :---
+
+Eingabe | Beschreibung
+  --- | :---
 __c__ | Rufzeichen Ändern
 __s__ | Symbol ändern
 __i__ | Infotext ändern
@@ -120,8 +121,9 @@ __d__ | Sendeintervall ändern
 __t__ | GPS Timeout Zeit ändern
 __w__ | Resetzeit Ändern
 __r__ | sofort neustarten
+##### Nach 20 Sekunden ohne Eingabe schließt sich das Menü!
+##### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden GPS Daten ausgegeben...
 
-Nach 20 Sekunden ohne Eingabe schließt sich das Menü!
 
 ## Beispiel:
 
@@ -142,10 +144,6 @@ __Femto-APRS bestätigt die Eingabe__
 Saved
 ```
 __Fertig__
-
-1. Start-text
-2. Das Menü, wenn innerhalb von 5 Sekunden ENTER gedrückt wurde
-#### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden GPS Daten ausgegeben...
 
 <img src="Bilder/WHITE.png" width="600">
 
