@@ -99,6 +99,50 @@ Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alle
 
 <img src="Bilder/IDE2.PNG" width="1000">
 
+
+__Dieser Starttext erscheint nach dem öffnen des Seriellen Monitors__
+```
+TEXT FOLGT
+TEXT FOLGT
+```
+
+__Wenn innerhalb von 5 Sekunden eine ENTER eingabe registriert wird, öffnet sich das Menü__
+```
+TEXT FOLGT
+TEXT FOLGT
+```
+Command | Description
+--- | :---
+__c__ | Rufzeichen Ändern
+__s__ | Symbol ändern
+__i__ | Infotext ändern
+__d__ | Sendeintervall ändern
+__t__ | GPS Timeout Zeit ändern
+__w__ | Resetzeit Ändern
+__r__ | sofort neustarten
+
+Nach 20 Sekunden ohne Eingabe schließt sich das Menü!
+
+## Beispiel:
+
+__Zum ändern des Rufzeichens wird wie zu sehen die eingabe c verlangt, dies kann so in den Seriellen Monitor eingegeben werden:__
+```
+c
+```
+__Femto-APRS fragt nun nach dem neuen Rufzeichen__
+```
+Enter new Call (4-11 Letters):
+```
+__Das neue Rufzeichen kann nun eingegeben werden, z.B. so:__
+```
+DO1TC
+```
+__Femto-APRS bestätigt die Eingabe__
+```
+Saved
+```
+__Fertig__
+
 1. Start-text
 2. Das Menü, wenn innerhalb von 5 Sekunden ENTER gedrückt wurde
 #### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden GPS Daten ausgegeben...
