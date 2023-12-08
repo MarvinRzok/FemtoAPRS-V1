@@ -102,14 +102,27 @@ Bei problemen am besten den Seriellen Monitor schließen und neu aufmachen, alle
 
 __Dieser Starttext erscheint nach dem öffnen des Seriellen Monitors__
 ```
-TEXT FOLGT
-TEXT FOLGT
+*** FemtoAPRS Tracker v1.2 ***
+Loading... ok.
+Waiting 5s to be sure device has enough power... 
+ -> press 'enter' for config...
 ```
 
 __Wenn innerhalb von 5 Sekunden eine ENTER eingabe registriert wird, öffnet sich das Menü__
 ```
-TEXT FOLGT
-TEXT FOLGT
+*** FemtoAPRS Tracker v1.2 ***
+Loading... ok.
+Waiting 5s to be sure device has enough power... 
+ -> press 'enter' for config... ok!
+- config -
+(c) Callsign: N0CALL
+(s) APRS Symbol: //
+(i) APRS Info: 
+(d) delay on startup: 5s
+(t) timeout (gps): 60s
+(w) wait before reboot: 20s
+(r) reboot
+select: 
 ```
 
 Eingabe | Beschreibung
@@ -122,6 +135,7 @@ __t__ | GPS Timeout Zeit ändern
 __w__ | Resetzeit Ändern
 __r__ | sofort neustarten
 ##### Nach 20 Sekunden ohne Eingabe schließt sich das Menü!
+##### Alle Eingaben müssen mit ENTER "gesendet" werden.
 ##### Bitte auf die richtige Schalterstellung des Adapters achten, bei falscher Stellung werden GPS Daten ausgegeben...
 
 
